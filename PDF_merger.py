@@ -18,4 +18,4 @@ for pdf in pdfs:
 merger.write("result.pdf")
 merger.close()
 
-#Thanks For Using
+#Thanks For Using the code
